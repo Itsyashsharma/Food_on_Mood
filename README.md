@@ -1,4 +1,4 @@
-# MoodieFoodie
+# Food on Mood
 *...Food for every Mood*
 
 This is a web application which recommends you food based on your mood using machine learning and delivers it to your doorstep.
@@ -12,7 +12,7 @@ Firstly, it suggests a list of restaurants combining three basic parameters i.e 
 The most commonly used apps allow you to choose a restaurant on the basis of only a single critera at a time, but we recommend you the nearest, most affordable and best quality restaurants, thereby catering to all your demands at the same time without having you to compromise on any of them.
 
 Secondly, we understand that there are times when you are unable to decide what to order. Infact, we have personally faced this dilemma a hundred times when we've spent hours scrolling a food delivery app, thinking about the most important question which seems to have been given the least importance uptil now , "WHAT TO EAT?" 
-MoodieFoodie helps you to choose a food item for all your moods, be it a happie, a sadie, an angrie, a dehydratie, a depressie, an excitie or an unwellie mood ;")
+food on mood helps you to choose a food item for all your moods, be it a happie, a sadie, an angrie, a dehydratie, a depressie, an excitie or an unwellie mood ;")
 Whatever be your mood, we can always suggest you food!
 
 The app uses previous user moods and their respective food orders to suggest the best food choice for you.
